@@ -4,13 +4,19 @@
       "app": "Main.exe",
       "version": "1.0",
       "url": "https://github.com/TheAsKo/WoWFisher-Public/releases/download/v1.0/Main.exe",
-      "sha256": "main123"
+      "sha256": "6558590517b17b79fe3cf9a2bf5ecae381a4401d9b1ef11b2edba349c17894b1"
     },
     {
       "app": "Launcher.exe",
       "version": "1.0",
       "url": "https://github.com/TheAsKo/WoWFisher-Public/releases/download/v1.0/Launcher.exe",
-      "sha256": "launcher456"
+      "sha256": "296aacf2b075a23551eca4d409ca96fa67dc01bf0b219982bacacf022d967dc5"
+    }
+    {
+      "app": "Updater.exe",
+      "version": "1.0",
+      "url": "https://github.com/TheAsKo/WoWFisher-Public/releases/download/v1.0/Launcher.exe",
+      "sha256": "da2e38ef75846e2df38d56346f1dba7c10083fbf16719078be815a4f7802dd44"
     }
   ]
 }
