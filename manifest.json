@@ -3,20 +3,20 @@
     {
       "app": "Main.exe",
       "version": "1.0",
-      "url": "https://github.com/TheAsKo/WoWFisher-Public/releases/download/v1.0/Main.exe",
-      "sha256": "6558590517b17b79fe3cf9a2bf5ecae381a4401d9b1ef11b2edba349c17894b1"
+      "url": "https://mega.nz/file/cqQSWSgY#PpSjbFfLjqhUIC9YO8GZqS3feDn6wv0fcqNmQtUeaAw",
+      "sha256": "a9086ebb87f559d5fb38fd08c7b111181d7e01a5f265f283ef350fa5256e2749"
     },
     {
       "app": "Launcher.exe",
       "version": "1.0",
-      "url": "https://github.com/TheAsKo/WoWFisher-Public/releases/download/v1.0/Launcher.exe",
-      "sha256": "296aacf2b075a23551eca4d409ca96fa67dc01bf0b219982bacacf022d967dc5"
+      "url": "https://mega.nz/file/giIwxTZB#3jot-W_yGSqHa8HKrdDPKujxOjqmQ8hYo1te3kvMv-k",
+      "sha256": "02464d495c7244e6c8899de907e62371cf1cfb35e71ffe87b4f47a198ef5be30"
     }
     {
       "app": "Updater.exe",
       "version": "1.0",
-      "url": "https://github.com/TheAsKo/WoWFisher-Public/releases/download/v1.0/Launcher.exe",
-      "sha256": "da2e38ef75846e2df38d56346f1dba7c10083fbf16719078be815a4f7802dd44"
+      "url": "https://mega.nz/file/cqQSWSgY#PpSjbFfLjqhUIC9YO8GZqS3feDn6wv0fcqNmQtUeaAw",
+      "sha256": "c5b0c7c4f2cfac1b2ae4f87e1416accde1affdc2f673d8409e7b741aca2be3c7"
     }
   ]
 }
